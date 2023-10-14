@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sea-bubbies/static/css/main.83742d0d.css",
+    "main.js": "/sea-bubbies/static/js/main.cb818e87.js",
+    "static/media/lobsterPic.png": "/sea-bubbies/static/media/lobsterPic.43bbcbdcf736a75aa982.png",
+    "static/media/dolphinPic.png": "/sea-bubbies/static/media/dolphinPic.5cb61a16680997168a0d.png",
+    "static/media/starfishPic.png": "/sea-bubbies/static/media/starfishPic.72306ab85ba5ca59c9ae.png",
+    "index.html": "/sea-bubbies/index.html",
+    "main.83742d0d.css.map": "/sea-bubbies/static/css/main.83742d0d.css.map",
+    "main.cb818e87.js.map": "/sea-bubbies/static/js/main.cb818e87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83742d0d.css",
+    "static/js/main.cb818e87.js"
+  ]
+}
