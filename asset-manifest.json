@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sea-bubbies/static/css/main.83742d0d.css",
-    "main.js": "/sea-bubbies/static/js/main.cb818e87.js",
-    "static/media/lobsterPic.png": "/sea-bubbies/static/media/lobsterPic.43bbcbdcf736a75aa982.png",
-    "static/media/dolphinPic.png": "/sea-bubbies/static/media/dolphinPic.5cb61a16680997168a0d.png",
-    "static/media/starfishPic.png": "/sea-bubbies/static/media/starfishPic.72306ab85ba5ca59c9ae.png",
-    "index.html": "/sea-bubbies/index.html",
-    "main.83742d0d.css.map": "/sea-bubbies/static/css/main.83742d0d.css.map",
-    "main.cb818e87.js.map": "/sea-bubbies/static/js/main.cb818e87.js.map"
+    "main.css": "/seaBubbies/static/css/main.83742d0d.css",
+    "main.js": "/seaBubbies/static/js/main.2647e3cc.js",
+    "static/media/lobsterPic.png": "/seaBubbies/static/media/lobsterPic.43bbcbdcf736a75aa982.png",
+    "static/media/dolphinPic.png": "/seaBubbies/static/media/dolphinPic.5cb61a16680997168a0d.png",
+    "static/media/starfishPic.png": "/seaBubbies/static/media/starfishPic.72306ab85ba5ca59c9ae.png",
+    "index.html": "/seaBubbies/index.html",
+    "main.83742d0d.css.map": "/seaBubbies/static/css/main.83742d0d.css.map",
+    "main.2647e3cc.js.map": "/seaBubbies/static/js/main.2647e3cc.js.map"
   },
   "entrypoints": [
     "static/css/main.83742d0d.css",
-    "static/js/main.cb818e87.js"
+    "static/js/main.2647e3cc.js"
   ]
 }
